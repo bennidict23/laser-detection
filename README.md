@@ -11,13 +11,14 @@ This project uses **Python** and **OpenCV** to detect a laser pointer in real-ti
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/username/laser-pointer-detection.git
-   cd laser-pointer-detection
+   git clone https://github.com/bennidict23/laser-detection.git
+   cd laser-detection
+
    ```
 
 2. Install dependencies:
    ```sh
-   pip install -r requirements.txt
+   pip install opencv-python
    ```
 
 ## Usage
